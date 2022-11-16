@@ -54,6 +54,7 @@ body{
 /*header start*/
 header{
     padding: 20px 0;
+    background-color: #ffffff;
 }
 .c_nav{}
 .menu{}
@@ -388,6 +389,11 @@ header{
 /*footer top end*/
 /*footer start*/
 .footer p{
-    margin: 10px 0 !important;
+    margin: 20px 0 !important;
+}
+.footer li a{}
+.footer li a i {
+    font-size: 20px;
+    color: #6B7280;
 }
 /*footer end*/
