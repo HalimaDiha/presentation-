@@ -53,7 +53,7 @@ body{
 /*common end*/
 /*header start*/
 header{
-    padding: 20px 0;
+    padding: 15px 0;
     background-color: #ffffff;
 }
 .c_nav{}
@@ -118,8 +118,8 @@ header{
 
 /*hero banner start*/
 .hero_banner{
-    padding: 64px 0;
-    margin-top: 50px;
+    margin-top: 120px;
+    margin-bottom: 70px;
 }
 /*left content start*/
 .b_text{
