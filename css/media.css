@@ -11,6 +11,9 @@
     padding: 60px 0;
 }
 /*header start*/
+header{
+    padding: 0;
+}
 .btn_common {
     width: 150px;
     height: 42px;
@@ -34,8 +37,8 @@
 }
 /*hero banner start*/
 .hero_banner {
-    padding: 15px 0;
-    margin-top: 20px;
+    margin-top: 80px;
+    margin-bottom: 30px;
 }
 .b_text {
     margin-top: 20px;
@@ -214,6 +217,9 @@
     padding: 60px 0;
 }
 /*header start*/
+header{
+    padding: 0;
+}
 .menu ul li a {
     padding-bottom: 0;
 }
@@ -229,8 +235,8 @@
 }
 /*hero banner start*/
 .hero_banner {
-    padding: 20px 0;
-    margin-top: 20px;
+    margin-top: 80px;
+    margin-bottom: 30px;
 }
 .b_text {
     margin-top: 20px;
@@ -414,8 +420,8 @@
 }
 /*hero banner start*/
 .hero_banner {
-    padding: 30px 0;
-    margin-top: 30px;
+    margin-top: 100px;
+    margin-bottom: 50px;
 }
 .b_text {
     margin-top: 25px;
